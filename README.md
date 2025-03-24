@@ -72,6 +72,8 @@ The Customer Dashboard offers insights into customer behavior, trends, and engag
 - Identified the **top 10 customers** contributing the highest profits to the business.
 - Additional details such as **rank, number of orders, current sales, current profit, and the last order date** were included to enhance customer profiling.
 
+  ![Customer Dashboard](https://github.com/user-attachments/assets/e09d63d6-e6e3-4a48-8ac0-4e070f5e86ab)
+
 ---
 
 ## Design & Interactivity Features
@@ -83,6 +85,8 @@ The Customer Dashboard offers insights into customer behavior, trends, and engag
 ### Data Filters
 - Users can filter data based on **product information** (category, subcategory).
 - Users can apply filters based on **location details** (region, state, city).
+
+  ![Filters   Interactivity](https://github.com/user-attachments/assets/47078d5c-f5b5-4a5b-842b-50546c59a716)
 
 ---
 
