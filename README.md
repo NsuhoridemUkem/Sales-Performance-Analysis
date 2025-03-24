@@ -48,6 +48,8 @@ The Sales Dashboard provides an overview of key sales metrics and trends, enabli
 - Displayed the **average weekly values**.
 - Highlighted weeks with **above-average and below-average performance**, allowing stakeholders to track sales fluctuations more effectively.
 
+  ![Sales Dashboard](https://github.com/user-attachments/assets/939bac14-df26-4ccc-844b-30c51408d5f0)
+
 ---
 
 ## Customer Dashboard
