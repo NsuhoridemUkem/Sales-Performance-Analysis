@@ -88,6 +88,9 @@ The Customer Dashboard offers insights into customer behavior, trends, and engag
 
   ![Filters   Interactivity](https://github.com/user-attachments/assets/47078d5c-f5b5-4a5b-842b-50546c59a716)
 
+### Full Dashboards
+Link to full dashboard on Tableau Public: https://public.tableau.com/views/SalesPerformanceDashboard_17398895857240/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ---
 
 ## Conclusion
